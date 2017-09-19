@@ -5,7 +5,7 @@
 
 Circuit breaker is a [node.js][2] implementation of the [Circuit Breaker][1] pattern.
 When properly configured it can aid in providing stability and prevent
-cascading failures in distributed systems.
+cascading failures in distributed system.
 
 ## Installation
 
