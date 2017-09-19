@@ -1,5 +1,5 @@
 {
-  "name": "screwdriver-node-circuitbreaker",
+  "name": "minz-node-circuitbreaker",
   "version": "1.0.0",
   "description": "Circuit breaker that is used to provide stability and prevent cascading failures in distributed systems",
   "main": "index.js",
