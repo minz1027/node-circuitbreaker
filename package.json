@@ -6,7 +6,7 @@
   "scripts": {
     "pretest": "eslint .",
     "test": "jenkins-mocha --recursive",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release pre --debug=false && npm publish --debug=false && semantic-release post --debug=false"
   },
   "repository": {
     "type": "git",
